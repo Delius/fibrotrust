@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+<property>
+ <name>http.agent.name</name>
+  <value>My Nutch Spider</value>
+  </property>
+
+
+<property>
+<name>generate.max.per.host</name>
+<value>100</value>
+</property>
+<property>
+<name>plugin.includes</name>
+<value>protocol-http|urlfilter-regex|parse-(html|tika|metatags)|indexer-solr|index-(basic|anchor|metadata)|scoring-opic|urlnormalizer-(pass|regex|basic)</value>
+</property>
+<!-- Used only if plugin parse-metatags is enabled. -->
+<property>
+<name>metatags.names</name>
+<value>description;keywords;author;title</value>
+<description> Names of the metatags to extract, separated by;.
+  Use '*' to extract all metatags. Prefixes the names with 'metatag.'
+    in the parse-metadata. For instance to index description and keywords,
+      you need to activate the plugin index-metadata and set the value of the
+        parameter 'index.parse.md' to 'metatag.description;metatag.keywords'.
+        </description>
+        </property>
+
+<property>
+  <name>index.parse.md</name>
+    <value>metatag.description,metatag.keywords,metatag.author,metatag.title</value>
+      <description>
+        Comma-separated list of keys to be taken from the parse metadata to generate fields.
+          Can be used e.g. for 'description' or 'keywords' provided that these values are generated
+            by a parser (see parse-metatags plugin)
+              </description>
+              </property>
+
+
+
+
+
+
+</configuration>
