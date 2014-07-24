@@ -1,0 +1,40 @@
+Jul 24, 2014 9:55:10 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/ajax-solr]
+Jul 24, 2014 9:57:11 AM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/ajax]
+Jul 24, 2014 9:58:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /usr/local/fibro/apache-tomcat-7.0.54/webapps/ajax-solr
+Jul 24, 2014 9:58:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /usr/local/fibro/apache-tomcat-7.0.54/webapps/ajax-solr has finished in 86 ms
+Jul 24, 2014 10:05:57 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "admin"
+Jul 24, 2014 10:05:57 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "admin"
+Jul 24, 2014 10:05:57 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "admin"
+Jul 24, 2014 10:05:57 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "admin"
+Jul 24, 2014 10:05:57 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "admin"
+Jul 24, 2014 10:05:58 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "manager"
+Jul 24, 2014 10:05:58 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "manager"
+Jul 24, 2014 10:05:58 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "manager"
+Jul 24, 2014 10:06:00 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "tomcat"
+Jul 24, 2014 10:06:00 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "tomcat"
+Jul 24, 2014 10:06:00 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "tomcat"
+Jul 24, 2014 10:06:01 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "root"
+Jul 24, 2014 10:06:01 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "root"
+Jul 24, 2014 10:06:01 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "root"
+Jul 24, 2014 10:06:01 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "root"
+Jul 24, 2014 10:06:01 AM org.apache.catalina.realm.LockOutRealm authenticate
+WARNING: An attempt was made to authenticate the locked user "root"

@@ -1,0 +1,50 @@
+Jul 23, 2014 11:25:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 23, 2014 11:25:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+Jul 23, 2014 11:25:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 11:36:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 11:51:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 11:51:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: install: Installing web application '/ajax' from '/usr/local/ajax-solr/examples/ajax-solr.war'
+Jul 23, 2014 11:51:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 11:52:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: undeploy: Undeploying web application at '/ajax'
+Jul 23, 2014 11:53:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 11:53:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: install: Installing web application '/ajax' from '/usr/local/ajax-solr/examples/ajax-solr.war'
+Jul 23, 2014 11:53:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 12:15:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 7:38:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 7:38:30 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: restart: Reloading web application '/ajax'
+Jul 23, 2014 7:38:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 7:38:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: restart: Reloading web application '/solr'
+Jul 23, 2014 7:38:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 7:58:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 7:58:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: install: Installing web application '/ajax-solr' from '/usr/local/ajax-solr/examples'
+Jul 23, 2014 7:58:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 8:16:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 8:34:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Jul 23, 2014 8:34:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: init: Global resources are available
+Jul 23, 2014 8:34:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+Jul 23, 2014 10:37:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
